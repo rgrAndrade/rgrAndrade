@@ -61,11 +61,9 @@ Atualmente, estou 100% focado e disponível para o mercado, consolidando minha e
 
 ### 📈 Minhas Estatísticas
 
- ### 📈 Minhas Estatísticas
-
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rgrAndrade&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgrAndrade&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rgrAndrade&theme=tokyonight" alt="Estatísticas do GitHub" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rgrAndrade&theme=tokyonight" alt="Linguagens mais usadas" height="180" />
 </p>
 
 ---
